@@ -1,0 +1,14 @@
+.dockerignore
+.env
+.flake8
+.travis.yml
+.pgdump
+.dump
+__pycache__
+Dockerfile
+LICENSE
+logs
+media
+staticfiles
+README.md
+*/frontend
